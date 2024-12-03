@@ -1,17 +1,15 @@
 <h1> Understanding Price Dynamics and Customer Preferences: Insights from Availability and Room Type Trends </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to extract actionable insights, enhance decision-making, and identify key trends in customer behavior. The primary focus is to address the question: "How are customer behavior and booking trends across neighborhoods and review months in Bangkok's Airbnb listings influenced by price dynamics, availability patterns, and preferences for different types of rooms?"
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- **Objective 1**: Analyze customer booking patterns across neighborhoods and review months to identify seasonal trends and preferences.  
+- **Objective 2**: Investigate price dynamics and availability patterns to optimize pricing strategies and improve host performance.  
+- **Objective 3**: Segment customers based on room type preferences and neighborhood choices to target high-value customer groups effectively.  
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
+- [Dataset 1](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF) - Airbnb Listing Bangkok
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -19,7 +17,6 @@ Key Objectives:
 - Interactive Dashboard: Tableau
 - Version Control: Git
 - Others: Jupyter Notebook
-- ...
 
 ## 4. Project Structure
 
@@ -45,13 +42,51 @@ Key Objectives:
 
 ```
 
-## 5. Summary of Finding
-### 5.1 Business Insight
-In this section, you can present the **actionable insights** derived from the analysis results.
-### 5.2 Actionable Recommendation
-In this section, you can offer **actionable business recommendations** to address the identified problems.
+## 5. Summary of Findings
+
+### **5.1 Business Insights**
+1. **Room Type Preferences:**  
+   - Hotel rooms have the highest median price, followed by entire homes/apartments, private rooms, and shared rooms.  
+   - Room type preferences significantly vary by neighborhood and review month, indicating demand shifts influenced by seasonality and location.  
+
+2. **Price Dynamics Across Neighborhoods:**  
+   - Significant differences in prices across neighborhoods suggest varying demand and customer value perceptions.  
+   - Premium neighborhoods attract higher-paying customers, while others may cater to budget-conscious travelers.  
+
+3. **Availability and Price Relationship:**  
+   - An inverse relationship exists between availability and price, where properties with lower availability command higher prices, likely due to higher demand.  
+
+4. **Seasonal Trends in Booking Patterns:**  
+   - Customer behavior shows clear seasonal variations, with distinct room type preferences and price sensitivity during specific months.  
+
+5. **Room Type Distribution by Neighborhood:**  
+   - Certain neighborhoods exhibit a strong preference for specific room types, highlighting opportunities for targeted marketing and property optimization.  
+
+---
+
+### **5.2 Actionable Recommendations**
+1. **Optimized Pricing Strategies:**  
+   - Adjust pricing dynamically based on neighborhood, availability, and seasonal trends to maximize revenue.  
+   - Train hosts to implement flexible pricing strategies that account for high-demand periods.  
+
+2. **Targeted Marketing Campaigns:**  
+   - Launch neighborhood-specific campaigns promoting room types that align with local demand patterns.  
+   - Highlight seasonal discounts or unique neighborhood features during peak review months.  
+
+3. **Customer Segmentation:**  
+   - Use insights into room type preferences to create personalized marketing campaigns for different customer segments.  
+   - Focus on premium properties in high-value neighborhoods to attract higher-spending customers.  
+
+4. **Host Education:**  
+   - Educate hosts about the importance of availability and how pricing impacts their property's performance.  
+   - Provide analytics tools that allow hosts to track and optimize their listings in real time.  
+
+5. **Seasonal Promotions:**  
+   - Offer incentives or discounts during low-demand months to boost bookings and maintain consistent occupancy.  
+
+These insights and recommendations enable Airbnb to better align its offerings with customer preferences, maximize profitability, and enhance customer satisfaction.
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Rachmawati Hapsari Putri
+- Email:putriemma2010@gmail.com
+- Linkedin: https://www.linkedin.com/in/rachmawatihp/
