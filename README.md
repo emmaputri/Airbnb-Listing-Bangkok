@@ -10,6 +10,7 @@ Key Objectives:
 
 ## 2. Data Sources
 - [Dataset 1](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF) - Airbnb Listing Bangkok
+- [Dataset 2](https://drive.google.com/file/d/1wBWtQIVHSCiVFhDAZCka-FQYTvhdfWKt/view?usp=drive_link) - Bangkok District Geojson
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
